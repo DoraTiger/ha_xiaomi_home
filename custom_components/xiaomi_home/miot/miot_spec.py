@@ -78,8 +78,8 @@ class MIoTSpecBase:
 
     # External params
     platform: str
-    device_class: any
-    state_class: any
+    device_class: Any
+    state_class: Any
     icon: str
     external_unit: any
 
